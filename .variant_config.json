@@ -1,0 +1,15 @@
+{
+  "student_id": "finaltest_lab5",
+  "variant_seed": 12909828454192281960,
+  "group_id": 0,
+  "parameters": {
+    "analysis_columns": [
+      "grade",
+      "volume",
+      "mass"
+    ],
+    "groupby_column": "rock_type",
+    "filter_threshold": 2.7,
+    "num_records": 240
+  }
+}
